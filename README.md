@@ -13,9 +13,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Header 3 hola3
 
 - Mis mascotas
-- Dita Von Teese :dog:
-- Piper Chapman :dog:
-- Phiphi O'hara :dog:
+- Dita Von Teese 
+- Piper Chapman 
+- Phiphi O'hara 
 
 1. Numbered
 2. List
