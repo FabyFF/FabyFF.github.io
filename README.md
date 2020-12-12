@@ -20,6 +20,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. Numbered
 2. List
 
+:star_struck:
+
 I work at **Hospital Civil** in _clinical research_ and `life science consulting`
 
 **Bold** and _Italic_ and `Code` text
