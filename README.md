@@ -25,6 +25,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+I work at **Hospital Civil** in _clinical research_ and `life science consulting`
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
