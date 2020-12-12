@@ -26,7 +26,7 @@ I work at **Hospital Civil** in _clinical research_ and `life science consulting
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](cabo.png)
+[Link](url) and ![Image](cabo.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
